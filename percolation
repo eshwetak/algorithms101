@@ -1,0 +1,16 @@
+#include <iostream>
+#include <vector>
+#include<cmath>
+using namespace std;
+
+int main()
+{
+	vector<int> a(5,0);
+	int i=0;
+	while(i<a.size())
+	{
+		cout<<a[i++];
+	}
+
+	return 0;
+}
