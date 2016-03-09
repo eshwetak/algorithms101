@@ -10,6 +10,7 @@ class student
 
 };
 
+/*main programs*/
 
 int main1()
 {
